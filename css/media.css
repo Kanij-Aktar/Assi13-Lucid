@@ -1,0 +1,384 @@
+@media (min-width:0px) and (max-width:991px){
+  .navbar-nav{
+    text-align: center;
+  }
+  .nav-link {
+    display: inline-block;
+  }
+  .navbar-light .navbar-nav .nav-link::before{
+    bottom: -2px;
+  }
+  .navbar-light .navbar-nav .nav-link::after{
+    bottom: -2px;
+  }
+  .navbar-light .navbar-nav .nav-link {
+    padding: 2px;
+}
+}
+@media (min-width:0px) and (max-width:320px){
+  header {
+    text-align: center;
+}
+  .phone {
+    display: none;
+}
+.hg {
+  padding: 0 26px;
+  min-height: 90vh;
+}
+.btn-download {
+  margin-bottom: 10px;
+}
+.btn-feature {
+  padding: 12px 21px;
+  margin: 0px;
+  margin-top: 10px;
+}
+.features-section {
+  padding: 50px 20px;
+  text-align: center;
+}
+.heading h5 {
+  padding-top: 28px;
+}
+.heading {
+  margin-bottom: -6px;
+}
+.beautiful-left img {
+  display: none;
+}
+.beautiful-left {
+  margin-top: 0px;
+}
+.beautiful-section {
+  text-align: center;
+  padding: 0 20px;
+}
+.beautiful-right ul {
+  width: 100%;
+ 
+}
+.beautiful-right li {
+  text-align: left;
+}
+.beautiful-right li p{
+  font-size: 17px;
+}
+.beautiful-right li i {
+  margin-right: 19px;
+  width: 4px;
+}
+.customize-section {
+  padding: 0 20px;
+  text-align: center;
+}
+
+.client-img {
+  width: 100px;
+  height: 74px;
+}
+.client {
+  width: 80%;
+}
+.client-img {
+  height: 57px;
+  width:57px;
+  margin-right: 29px;
+}
+.testmonial-section {
+  text-align: justify;
+}
+.testmonial-section {
+
+  padding: 25px;
+}
+.client {
+  margin-bottom: 20px;
+}
+.like {
+  text-align: center;
+  padding: 0 20px;
+}
+.btn-r {
+  justify-content: center;
+}
+.text h1 {
+  font-size: 25px;
+  margin-bottom: 32px;
+}
+.pricing {
+  padding: 100px 20px;
+}
+.price {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.contact-form {
+  width: 80%;
+  top: 60%;
+}
+.contact-section {
+  padding-bottom: 339px;
+  padding: 68px 0;
+  padding-bottom: 153px;
+}
+.heading span {
+  margin-bottom: 48px;
+}
+.contact-section i {
+  margin-bottom: 10px;
+}
+ }
+ @media (max-width:320px){
+  .hg {
+    min-height: 90vh;
+  }
+ }
+
+
+ @media (min-width:321px) and (max-width:375px){
+ 
+.btn-feature {
+  margin: 0px;
+  margin-top: 10px;
+}
+.phone img {
+  width: 95%;
+  display: none;
+}
+.hg {
+  min-height: 80vh;
+  align-items: center;
+}
+header {
+  text-align: center;
+}
+.phone {
+  display: none;
+}
+.hg {
+padding: 0 26px;
+min-height: 90vh;
+}
+.btn-download {
+margin-bottom: 10px;
+}
+.btn-feature {
+padding: 12px 21px;
+margin: 0px;
+margin-top: 10px;
+}
+.features-section {
+padding: 50px 20px;
+text-align: center;
+}
+.heading h5 {
+padding-top: 28px;
+}
+.heading {
+margin-bottom: -6px;
+}
+.beautiful-left img {
+display: none;
+}
+.beautiful-left {
+margin-top: 0px;
+}
+.beautiful-section {
+text-align: center;
+padding: 0 20px;
+}
+.beautiful-right ul {
+width: 100%;
+
+}
+.beautiful-right li {
+text-align: left;
+}
+.beautiful-right li p{
+font-size: 17px;
+}
+.beautiful-right li i {
+margin-right: 19px;
+width: 4px;
+}
+.customize-section {
+padding: 0 20px;
+text-align: center;
+}
+
+.client-img {
+width: 100px;
+height: 74px;
+}
+.client {
+width: 80%;
+}
+.client-img {
+height: 57px;
+width:57px;
+margin-right: 29px;
+}
+.testmonial-section {
+text-align: justify;
+}
+.testmonial-section {
+
+padding: 25px;
+}
+.client {
+margin-bottom: 20px;
+}
+.like {
+text-align: center;
+padding: 0 20px;
+}
+.btn-r {
+justify-content: center;
+}
+.text h1 {
+font-size: 25px;
+margin-bottom: 32px;
+}
+.pricing {
+padding: 100px 20px;
+}
+.price {
+text-align: center;
+margin-bottom: 30px;
+}
+.contact-form {
+width: 80%;
+top: 60%;
+}
+.contact-section {
+padding-bottom: 339px;
+padding: 68px 0;
+padding-bottom: 153px;
+}
+.heading span {
+margin-bottom: 48px;
+}
+.contact-section i {
+margin-bottom: 10px;
+}
+
+ }
+ @media (min-width:376px) and (max-width:425px){
+  .hg {
+    min-height: 80vh;
+    align-items: center;
+}
+.phone img {
+  display: none;
+}
+.header-content {
+  text-align: center;
+}
+  .client {
+    width: 87%;
+}
+.btn-download {
+margin-bottom: 0px;
+}
+.btn-feature {
+    margin: 0px;
+}
+.like {
+ 
+  text-align: center;
+}
+.mf{
+  margin: 0px;
+}
+
+.btn-feature {
+    margin: 0px;
+}
+.client-img {
+    width: 81px;
+    height: 69px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    border-radius: 61%;
+    overflow: hidden;
+}
+.text h1 {
+  margin-bottom: 25px;
+}
+ }
+ 
+ @media (min-width:426px) and (max-width:768px){
+
+  .phone img {
+    width: 87%;
+  }
+  .hg {
+    min-height: 60vh;
+    align-items: center;
+}
+  .header-content {
+    width: 53%;
+}
+.mobile-two img {
+  margin-top: 81px;
+}
+.btn-feature {
+  margin-left:10px;
+  padding: 12px 23px;
+  
+}
+.like .btn-download{
+  margin-bottom: 10px;
+}
+.like .btn-feature{
+  margin-left: 0;
+}
+.contact-section p {
+padding: 0px;
+}
+.contact-form {
+  padding: 46px;
+  width: 79%;
+
+}
+.btn-order {
+  padding: 10px 12px;
+
+}
+.client-img {
+  width: 72px;
+  height: 72px;
+}
+.client_des p {
+  margin: 0px;
+  margin-left: 0px;
+}
+.client {
+  width: 77%;
+}
+}
+@media (min-width:789px) and (max-width:1024px){
+  .like .btn-download {
+    margin-bottom: 0px;
+}
+.like .btn-feature {
+  margin-left: 10px;
+}
+.btn-order {
+  padding: 10px 25px;
+}
+.contact-form {
+  width: 60%;
+}
+.client-img {
+  width: 83px;
+  height: 71px;
+  margin-right: 40px;
+}
+}
+@media (min-width:1440px){
+  .btn-order {
+    padding: 10px 30px;
+}
+}
